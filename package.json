@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://myroslav111.github.io/100-natural",
+  "homepage": "https://orlov-yevhen.github.io/IceCream-groop-project/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /100-natural/"
+    "build": "parcel build src/*.html --public-url /IceCream-groop-project/"
   },
   "repository": {
     "type": "git",
